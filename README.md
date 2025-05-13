@@ -21,8 +21,8 @@ This project scrapes data of top TV shows from IMDb, including their **title**, 
 
 
 ## Screenshots
-![Screenshot (328)](https://github.com/user-attachments/assets/aa0cd6e7-bb9a-44b1-8ce2-206e63558596)
 
+![Screenshot (328)](https://github.com/user-attachments/assets/f19f60a5-0e34-43f4-a921-7e4d19444b67)
 
 
 ## Requirements
